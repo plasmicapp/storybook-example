@@ -1,0 +1,202 @@
+.ProfileCard__root__jp7BW {
+  display: flex;
+  width: 300px;
+  height: auto;
+  position: relative;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.ProfileCard__box__pafy {
+  box-shadow: 2px 4px 8px 0px rgba(0, 0, 0, 0.14);
+  display: flex;
+  position: relative;
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: auto;
+  margin-top: 77px;
+  flex-direction: column;
+  align-items: center;
+  min-width: 0;
+  border-radius: 4px;
+}
+.ProfileCard__box__vklyH {
+  display: inline-flex;
+  position: relative;
+  background-color: rgb(238, 238, 238) /* plasmic-token: dyRt8Z6SjsNa */;
+  width: auto;
+  height: auto;
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-image: none;
+  background-origin: padding-box;
+  background-position: 0% 0%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: -70px;
+  border-radius: 50%;
+}
+.ProfileCard__box__ul0MG {
+  box-shadow: 2px 4px 8px 0px rgba(0, 0, 0, 0.14);
+  display: block;
+  position: relative;
+  background-color: rgba(68, 192, 255, 0.2);
+  width: 120px;
+  height: 120px;
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-image: url("https://bedno.com/p/a/greats/v/Douglas_Engelbart.jpg");
+  background-origin: padding-box;
+  background-position: 0% 0%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  flex-shrink: 0;
+  border-radius: 50%;
+}
+.ProfileCard__box__caIY {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  padding-left: 16px;
+  padding-right: 16px;
+  min-width: 0;
+  margin: 10px;
+}
+.ProfileCard__box__caIY > .__wab_flex-container {
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.ProfileCard__box__caIY > .__wab_flex-container > *,
+.ProfileCard__box__caIY > .__wab_flex-container > .__wab_slot > * {
+  margin-top: 16px;
+}
+.ProfileCard__slotName__i7StX {
+  font-size: 20px;
+  color: rgb(141, 17, 181) /* plasmic-token: 8M4FH8kGwcFW */;
+}
+.ProfileCard__slotTitle__sj8Q8 {
+  font-size: 11px;
+  font-weight: 700;
+  color: rgb(129, 129, 129);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.ProfileCard__box__xQ3Wj {
+  position: relative;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+}
+.ProfileCard__box__uod9O {
+  display: flex;
+  position: relative;
+  background-color: rgb(141, 17, 181) /* plasmic-token: 8M4FH8kGwcFW */;
+  width: 100%;
+  height: auto;
+  flex-direction: row;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  min-width: 0;
+  padding: 16px;
+}
+.ProfileCard__box__xeuDq {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  height: auto;
+  min-width: 0;
+}
+.ProfileCard__link__bVtaR {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.ProfileCard__svg__nbcgr {
+  display: flex;
+  width: 1em;
+  height: 1em;
+  opacity: 0.8;
+  color: rgb(255, 255, 255);
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  max-height: 100%;
+}
+.ProfileCard__root__jp7BW .ProfileCard__svg__nbcgr:hover {
+  opacity: 1;
+}
+.ProfileCard__link__j097V {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.ProfileCard__svg__gHiAn {
+  display: flex;
+  width: 1em;
+  height: 1em;
+  opacity: 0.8;
+  color: rgb(255, 255, 255);
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  max-height: 100%;
+}
+.ProfileCard__root__jp7BW .ProfileCard__svg__gHiAn:hover {
+  opacity: 1;
+}
+.ProfileCard__link__vtx9J {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.ProfileCard__svg__zEzJw {
+  display: flex;
+  width: 1em;
+  height: 1em;
+  opacity: 0.8;
+  color: rgb(255, 255, 255);
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  max-height: 100%;
+}
+.ProfileCard__root__jp7BW .ProfileCard__svg__zEzJw:hover {
+  opacity: 1;
+}
+.ProfileCard__link__qbkoB {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.ProfileCard__svg__iTyFz {
+  display: flex;
+  width: 1em;
+  height: 1em;
+  opacity: 0.8;
+  color: rgb(255, 255, 255);
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  max-height: 100%;
+}
+.ProfileCard__root__jp7BW .ProfileCard__svg__iTyFz:hover {
+  opacity: 1;
+}

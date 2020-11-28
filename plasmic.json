@@ -1,0 +1,98 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "ts",
+    "scheme": "blackbox"
+  },
+  "style": {
+    "scheme": "css",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+  },
+  "images": {
+    "scheme": "inlined",
+    "publicDir": "",
+    "publicUrlPrefix": ""
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "./src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "bT6EcsXmTT3vsWeXT57vmK",
+      "projectName": "3-Minute Codegen Quickstart",
+      "version": "latest",
+      "cssFilePath": "plasmic/3_minute_codegen_quickstart/plasmic_3_minute_codegen_quickstart.css",
+      "components": [
+        {
+          "id": "NFdABpBluE1f",
+          "name": "ProfileCard",
+          "type": "managed",
+          "projectId": "bT6EcsXmTT3vsWeXT57vmK",
+          "renderModuleFilePath": "plasmic/3_minute_codegen_quickstart/PlasmicProfileCard.tsx",
+          "importSpec": {
+            "modulePath": "ProfileCard.tsx"
+          },
+          "cssFilePath": "plasmic/3_minute_codegen_quickstart/PlasmicProfileCard.css",
+          "scheme": "blackbox"
+        }
+      ],
+      "icons": [
+        {
+          "id": "Y8Z_eKp1HLF6",
+          "name": "TwitterIcon",
+          "moduleFilePath": "plasmic/3_minute_codegen_quickstart/icons/PlasmicIcon__Twitter.tsx"
+        },
+        {
+          "id": "vEckQK-fkfYH",
+          "name": "FacebookIcon",
+          "moduleFilePath": "plasmic/3_minute_codegen_quickstart/icons/PlasmicIcon__Facebook.tsx"
+        },
+        {
+          "id": "JobxWg6bDZcU",
+          "name": "GithubIcon",
+          "moduleFilePath": "plasmic/3_minute_codegen_quickstart/icons/PlasmicIcon__Github.tsx"
+        },
+        {
+          "id": "EOC6PUMIekdE",
+          "name": "DribbbleIcon",
+          "moduleFilePath": "plasmic/3_minute_codegen_quickstart/icons/PlasmicIcon__Dribbble.tsx"
+        }
+      ],
+      "images": [
+        {
+          "id": "hz3_qGcoj6qZ",
+          "name": "Toolbar Codegen",
+          "filePath": "plasmic/3_minute_codegen_quickstart/images/toolbarCodegen.png"
+        },
+        {
+          "id": "HX1GwW1uW9CN",
+          "name": "Toolbar CodeSandbox",
+          "filePath": "plasmic/3_minute_codegen_quickstart/images/toolbarCodeSandbox.png"
+        },
+        {
+          "id": "w6bHYZaf5o2b",
+          "name": "image",
+          "filePath": "plasmic/3_minute_codegen_quickstart/images/image.png"
+        },
+        {
+          "id": "mVFMzpgGCPWa",
+          "name": "image 2",
+          "filePath": "plasmic/3_minute_codegen_quickstart/images/image2.svg"
+        },
+        {
+          "id": "24hjz6M5zbuN",
+          "name": "image 3",
+          "filePath": "plasmic/3_minute_codegen_quickstart/images/image3.png"
+        }
+      ],
+      "jsBundleThemes": []
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": []
+  },
+  "cliVersion": "0.1.71"
+}
