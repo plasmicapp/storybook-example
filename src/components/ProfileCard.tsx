@@ -19,7 +19,7 @@ import {
 //
 // You can also stop extending from DefaultProfileCardProps altogether and have
 // total control over the props for your component.
-interface ProfileCardProps extends DefaultProfileCardProps {}
+export interface ProfileCardProps extends DefaultProfileCardProps {}
 
 function ProfileCard(props: ProfileCardProps) {
   // Use PlasmicProfileCard to render this component as it was
